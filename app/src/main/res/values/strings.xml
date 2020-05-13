@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SampleBindingAdapter</string>
+    <string name="default_title">Green Book</string>
 </resources>
